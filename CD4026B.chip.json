@@ -1,0 +1,22 @@
+{
+  "name": "CD4026B",
+  "author": "Anonymous maker",
+  "pins": [
+    "CLK",
+    "INH",
+    "DEI",
+    "DEO",
+    "CO",
+    "F",
+    "G",
+    "VSS",
+    "VDD",
+    "MR",
+    "UCS",
+    "C",
+    "B",
+    "E",
+    "A",
+    "D"
+  ]
+}
